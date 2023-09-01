@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-module-7.1-practice/static/css/main.7acaea2f.css",
+    "main.js": "/react-redux-module-7.1-practice/static/js/main.6f2e1c5f.js",
+    "index.html": "/react-redux-module-7.1-practice/index.html",
+    "main.7acaea2f.css.map": "/react-redux-module-7.1-practice/static/css/main.7acaea2f.css.map",
+    "main.6f2e1c5f.js.map": "/react-redux-module-7.1-practice/static/js/main.6f2e1c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.6f2e1c5f.js"
+  ]
+}
